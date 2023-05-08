@@ -23,11 +23,15 @@ const tecnologíasPendientes = {
     }
 ```
 <p align="center">
-    <em>Proyectos en el que estuve trabajando últimamente:</em>
+    <em>🎇 Proyectos en el que estuve trabajando últimamente 🎇</em>
 </p>  
 <div align="center">
-• Patitas Felices(Proyecto Final de "Soy Henry"): https://patitas-felices.vercel.app/home
+• 🐾 Patitas Felices(Proyecto Final de "Soy Henry"): https://patitas-felices.vercel.app/home
 </div>
+
+<h3 align="center">
+   ⭐Puedes contactarme por LinkedIn o por correo ⭐
+</h3>
     
 <p align="center">
     <a href="https://www.linkedin.com/in/rodrigo-palomo/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
