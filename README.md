@@ -19,7 +19,7 @@ const rodrigoPalomo = {
     
     // Tecnologías de mi interés
 const tecnologíasPendientes = {
-    pending: [ReactNative, Golang, Python]
+    pending: [ReactNative, Golang, Python, Java]
     }
 ```
 <p align="center">
@@ -30,7 +30,7 @@ const tecnologíasPendientes = {
 </p>
 
 <h3 align="center">
-   ⭐Puedes contactarme por LinkedIn o por correo ⭐
+   ⭐Puedes contactarme por LinkedIn, Correo e Instagram ⭐
 </h3>
     
 <p align="center">
