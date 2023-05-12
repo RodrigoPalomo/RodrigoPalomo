@@ -8,6 +8,7 @@
 </p>
     
 <p align="center"><em>¡Hola! Me llamo Rodrigo, podes decirme Rodri, Palomo (Palomillo para los amigos 😂), tengo 22 años y soy FullStack Web Developer.
+¡Estoy en búsqueda de una oportunidad laboral que me permita demostrar mis habilidades y poder desarrollarme en el equipo!
 Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación. Gracias a mi curiosidad me mantengo al día con todas las últimas actualizaciones de las tecnologías que manejo 👀</em></p>
     
 ```js
@@ -18,7 +19,7 @@ const rodrigoPalomo = {
     }
     
     // Tecnologías de mi interés
-const tecnologíasPendientes = {
+const tecnologiasPendientes = {
     pending: [ReactNative, Golang, Python, Java, NestJS, TypeScript]
     }
 ```
