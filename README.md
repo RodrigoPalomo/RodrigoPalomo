@@ -19,7 +19,7 @@ const rodrigoPalomo = {
     
     // Tecnologías de mi interés
 const tecnologíasPendientes = {
-    pending: [ReactNative, Golang, Python, Java]
+    pending: [ReactNative, Golang, Python, Java, NestJS, TypeScript]
     }
 ```
 <p align="center">
