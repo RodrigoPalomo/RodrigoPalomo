@@ -17,13 +17,13 @@ Es por eso que en mi repositorio se verá reflejado todos los proyectos personal
     // Tecnologías
 const rodrigoPalomo = {
     pronouns: "he" | "him",
-    code: [JavaScript, ReactJS, NextJS, NodeJS, ExpressJS, PostgreSQL, SequelizeJS, Redux, ReduxToolkit, C#, SQL-Server, T-SQL, TypeScript]
+    code: [JavaScript, ReactJS, NextJS, NodeJS, ExpressJS, PostgreSQL, SequelizeJS, Redux, ReduxToolkit, C#, SQLServer, TSQL, TypeScript]
     }
     
     // Tecnologías de mi interés
 const tecnologiasPendientes = {
     pending: [ReactNative, Golang, NestJS, Angular],
-    focusedOn: [.NET, T-SQL]
+    focusedOn: [.NET, TSQL]
     }
 ```
 <p align="center">
