@@ -7,21 +7,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Rodrigo+Esteban+Palomo++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
     
-<p align="center"><em>¡Hola! Me llamo Rodrigo, podes decirme Rodri, Palomo (Palomillo para los amigos 😂), tengo 22 años y soy FullStack Web Developer.
-¡Estoy en búsqueda de una oportunidad laboral que me permita demostrar mis habilidades y poder desarrollarme en el equipo!
-Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación. Gracias a mi curiosidad me mantengo al día con todas las últimas actualizaciones de las tecnologías que manejo 👀</em></p>
+<p align="center"><em>¡Hola! Me llamo Rodrigo tengo 23 años y soy FullStack Web Developer.
+Estoy en constante aprendizaje de todo lo que es tecnología. Actualmente estoy enfocado en especializarme en todo el mundo de .NET, C#, T-SQL y SQL Server.
+Como desarrollador web Front-End me resulta bastante curioso como puedo combinar frameworks con las tecnologías anteriormente mencionadas.
+Es por eso que en mi repositorio se verá reflejado todos los proyectos personales de práctica y de laboratorio que vaya aprendiendo por mi cuenta.
+</em></p>
     
 ```js
     // Tecnologías
 const rodrigoPalomo = {
     pronouns: "he" | "him",
-    code: [JavaScript, ReactJS, NextJS, NodeJS, ExpressJS, PostgreSQL, SequelizeJS, Redux, ReduxToolkit]
+    code: [JavaScript, ReactJS, NextJS, NodeJS, ExpressJS, PostgreSQL, SequelizeJS, Redux, ReduxToolkit, C#. SQL Server, T-SQL, TypeScript]
     }
     
     // Tecnologías de mi interés
 const tecnologiasPendientes = {
-    pending: [ReactNative, Golang, NestJS, Java, Php, TypeScript],
-    inProgress: [Python, Django]
+    pending: [ReactNative, Golang, NestJS],
+    focusedOn: [.NET, T-SQL]
     }
 ```
 <p align="center">
