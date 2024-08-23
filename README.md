@@ -26,12 +26,6 @@ const tecnologiasPendientes = {
     focusedOn: [.NET, TSQL]
     }
 ```
-<p align="center">
-    <em>🎇 Proyectos en el que estuve trabajando últimamente 🎇</em>
-</p>
-<p align="center"
-<a href="https://github.com/Nachomorales99/PatitasFelices"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nachomorales99&repo=PatitasFelices&theme=gruvbox&hide_border=true&show_icons=true" alt="Patitas Felices"></a>
-</p>
 
 <h3 align="center">
    ⭐Puedes contactarme por LinkedIn, Correo e Instagram ⭐
