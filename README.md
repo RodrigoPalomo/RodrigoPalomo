@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Rodrigo+Esteban+Palomo++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
     
-<p align="center"><em>¡Hola! Me llamo Rodrigo tengo 23 años y soy FullStack Web Developer.
+<p align="center"><em>¡Hola! Me llamo Rodrigo tengo 24 años y soy FullStack Web Developer.
 Estoy en constante aprendizaje de todo lo que es tecnología. Actualmente estoy enfocado en especializarme en todo el mundo de .NET, C#, T-SQL y SQL Server.
 Como desarrollador web Front-End me resulta bastante curioso como puedo combinar frameworks con las tecnologías anteriormente mencionadas.
 Es por eso que en mi repositorio se verá reflejado todos los proyectos personales de práctica y de laboratorio que vaya aprendiendo por mi cuenta.
