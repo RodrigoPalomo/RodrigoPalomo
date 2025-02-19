@@ -8,7 +8,7 @@
 </p>
     
 <p align="center"><em>¡Hola! Me llamo Rodrigo tengo 24 años y soy FullStack Web Developer.
-Estoy en constante aprendizaje de todo lo que es tecnología. Actualmente estoy enfocado en especializarme en todo el mundo de .NET, C#, T-SQL y SQL Server.
+Estoy en constante aprendizaje de todo lo que es tecnología. Actualmente estoy enfocado en especializarme en todo el mundo de .NET, C# y SQL Server.
 Como desarrollador web Front-End me resulta bastante curioso como puedo combinar frameworks con las tecnologías anteriormente mencionadas.
 Es por eso que en mi repositorio se verá reflejado todos los proyectos personales de práctica y de laboratorio que vaya aprendiendo por mi cuenta.
 </em></p>
